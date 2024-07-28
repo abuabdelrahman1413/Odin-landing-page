@@ -162,6 +162,7 @@ header {
 .info-list {
   display: flex;
   gap: 2rem;
+  margin: 0 auto;
 }
 
 .info-items {
